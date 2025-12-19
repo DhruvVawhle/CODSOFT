@@ -1,18 +1,26 @@
 # CodSoft Web Development Internship – Level 1
 
 ## Task 1: Personal Portfolio Website
+- Responsive portfolio & landing page
+- Built with HTML & CSS
+- Animated sections & skill icons
 
-This project is a responsive personal portfolio and landing page created using **HTML and CSS**.
+🔗 Live: https://dhruvvawhle.github.io/CODSOFT/
 
-### Features
-- Responsive design
-- Animated sections
-- Skills with colored icons
-- Projects showcase
-- Resume download
-- Contact section
+---
 
-### Technologies Used
-- HTML
-- CSS
+## Task 2: Landing Page
+- Integrated into portfolio
+- Clean UI/UX
+- Mobile responsive
+
+---
+
+## Task 3: Calculator Web App
+- Modern calculator UI
+- Grid-based button layout
+- JavaScript logic
+- Inspired by physical calculator layout
+
+📁 Source: /Task-3-Calculator
 
